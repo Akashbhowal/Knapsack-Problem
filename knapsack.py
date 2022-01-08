@@ -9,6 +9,7 @@ if __name__=="__main__":
     # wt- weight array
     # val- value array
     # w- total size of knapsack
+    # n- length of array
     # }
     #base condition
     for i in range(0,n+1):
